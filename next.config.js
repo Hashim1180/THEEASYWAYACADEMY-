@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-app",
+  "name": "theeasywayacademy",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
